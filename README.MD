@@ -33,7 +33,7 @@ status - bot current status
 
 help - to open help section
 
-about - bot about menu
+about - bot aboutl menu
 
 users - total bot users count
 
@@ -50,7 +50,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/File-To-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/starryfile_robot/File-To-Link)
 
 
 🚀Features<p>
